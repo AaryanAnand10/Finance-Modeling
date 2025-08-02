@@ -23,7 +23,7 @@ In summary, BlackRock’s financial modeling capabilities are central both to it
 [10] https://www.blackrock.com/americas-offshore/en/education
 
 
-Certainly! Here’s a deeper look at what **Quantitative Model Development** means within BlackRock’s Financial Modeling Group (FMG):
+
 
 ### What Is Involved in Quantitative Model Development at BlackRock?
 
